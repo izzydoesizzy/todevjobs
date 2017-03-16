@@ -36,7 +36,11 @@ A public repo for Developer Jobs in Toronto
 **imagelink:** Link to a square logo URL (copy image link from Twitter profile)  
 **company:** Company Name  
 **location:** Major intersection  
+<<<<<<< HEAD
 **joblink:** URL to the job posting
+=======
+**joblink:** URL to the job posting  
+>>>>>>> origin/gh-pages
 
 
 6. Propose the changes
