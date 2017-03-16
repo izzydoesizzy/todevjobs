@@ -1,6 +1,6 @@
 # TODevJobs 
 >A public repo for Developer Jobs in Toronto
-< hr > 
+<hr> 
 
 ## How to submit a new job
 
@@ -32,12 +32,12 @@
   joblink: https://www.accenture.com/ca-en/careers/jobdetails?id=00428457_en&src=JB-11540
 ```
 
-**title:** Job Title  
-**duration:** You can choose "full-time", "part-time", "freelance", "internship", "temporary"  
-**imagelink:** Link to a square logo URL (copy image link from Twitter profile)  
-**company:** Company Name  
-**location:** Major intersection  
-**joblink:** URL to the job posting  
+>**title:** Job Title  
+>**duration:** You can choose "full-time", "part-time", "freelance", "internship", "temporary"  
+>**imagelink:** Link to a square logo URL (copy image link from Twitter profile)  
+>**company:** Company Name  
+>**location:** Major intersection  
+>**joblink:** URL to the job posting  
 
 
 
@@ -53,3 +53,11 @@
 
 
 ![Submit Pull Request](/images/readme-images/06-createpullrequest.png)
+
+<hr>
+
+This project was developed by Iskender Piyale-Sheard, the Community Manager at [Lighthouse Labs](http://bit.ly/izzydoesizzygithub) as a fun side project. Come say hi on Twitter! I'm at [@izzydoesizzy](http://www.twitter.com/izzydoesizzy)
+
+[LinkedIn](https://www.linkedin.com/in/izzydoesizzy)  
+[Twitter](http://twitter.com/izzydoesizzy)  
+[Website](http://izzydoesizzy.com)
