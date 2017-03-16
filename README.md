@@ -28,10 +28,15 @@ A public repo for Developer Jobs in Toronto
 ```
 
 *title:* Job Title
+
 *duration:* You can choose "full-time", "part-time", "freelance", "internship", "temporary"
+
 *imagelink:* Link to a square logo URL (copy image link from Twitter profile)
+
 *company:* Company Name
+
 *location:* Major intersection
+
 *joblink:* URL to the job posting
 
 
