@@ -1,5 +1,6 @@
 # TODevJobs 
-A public repo for Developer Jobs in Toronto
+>A public repo for Developer Jobs in Toronto
+< hr > 
 
 ## How to submit a new job
 
