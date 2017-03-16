@@ -31,12 +31,12 @@ A public repo for Developer Jobs in Toronto
   joblink: https://www.accenture.com/ca-en/careers/jobdetails?id=00428457_en&src=JB-11540
 ```
 
-**title:** Job Title
-**duration:** You can choose "full-time", "part-time", "freelance", "internship", "temporary"
-**imagelink:** Link to a square logo URL (copy image link from Twitter profile)
-**company:** Company Name
-**location:** Major intersection
-**joblink:** URL to the job posting
+**title:** Job Title  
+**duration:** You can choose "full-time", "part-time", "freelance", "internship", "temporary"  
+**imagelink:** Link to a square logo URL (copy image link from Twitter profile)  
+**company:** Company Name  
+**location:** Major intersection  
+**joblink:** URL to the job posting  
 
 
 6. Propose the changes
