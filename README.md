@@ -3,17 +3,21 @@ A public repo for Developer Jobs in Toronto
 
 ## How to submit a new job
 
+
 1. Go to the [Jobs Data File](https://github.com/izzydoesizzy/todevjobs/blob/gh-pages/_data/jobs.yml)
 
 2. Click to edit the file
+
 
 ![Edit](/images/readme-images/01-forkedit.png)
 
 3. You now have a fork of the repo
 
+
 ![Fork](/images/readme-images/02-fork.png)
 
 4. Copy/Paste the previous job posting
+
 
 ![Duplicate](/images/readme-images/03-duplicate.png)
 
@@ -27,25 +31,28 @@ A public repo for Developer Jobs in Toronto
   joblink: https://www.accenture.com/ca-en/careers/jobdetails?id=00428457_en&src=JB-11540
 ```
 
-*title:* Job Title
+_title:_ Job Title
 
-*duration:* You can choose "full-time", "part-time", "freelance", "internship", "temporary"
+_duration:_ You can choose "full-time", "part-time", "freelance", "internship", "temporary"
 
-*imagelink:* Link to a square logo URL (copy image link from Twitter profile)
+_imagelink:_ Link to a square logo URL (copy image link from Twitter profile)
 
-*company:* Company Name
+_company:_ Company Name
 
-*location:* Major intersection
+_location:_ Major intersection
 
-*joblink:* URL to the job posting
+_joblink:_ URL to the job posting
 
 
 6. Propose the changes
+
 
 ![Propose Changes](/images/readme-images/04-proposechanges.png)
 
 7. Submit a pull request
 
+
 ![Pull Request](/images/readme-images/05-pullrequest.png)
+
 
 ![Submit Pull Request](/images/readme-images/06-createpullrequest.png)
