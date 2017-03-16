@@ -81,15 +81,15 @@ title: Home
 		<ul class="job-list">
 
 
-      		{% for  %}
+      		{% for job in site.data.jobs %}
        
-			<li class="highlighted"><a href="job-page.html">
-				<img src="images/job-list-logo-01.png" alt="">
+			<li class="highlighted"><a href="{{ job.joblink }}" target="_blank">
+				<img src="{{ job.imagelink }}" alt="">
 				<div class="job-list-content">
-					<h4>Marketing Coordinator - SEO / SEM Experience <span class="full-time">Full-Time</span></h4>
+					<h4>{{ job.title }} <br><span class="{{ job.duration | downcase }}">{{ job.duration | capitalize }}</span></h4>
 					<div class="job-icons">
-						<span><i class="fa fa-briefcase"></i> King</span>
-						<span><i class="fa fa-map-marker"></i> Sydney</span>
+						<span><i class="fa fa-briefcase"></i> {{ job.company }}</span>
+						<span><i class="fa fa-map-marker"></i> {{ job.location }}</span>
 
 					</div>
 				</div>
@@ -97,7 +97,9 @@ title: Home
 				<div class="clearfix"></div>
 			</li>
 
-			<li><a href="job-page.html">
+			{% endfor %}
+
+			<!-- <li><a href="job-page.html">
 				<img src="images/job-list-logo-02.png" alt="">
 				<div class="job-list-content">
 					<h4>Core PHP Developer for Site Maintenance <span class="part-time">Part-Time</span></h4>
@@ -152,7 +154,7 @@ title: Home
 				</a>
 				<div class="clearfix"></div>
 			</li>
-
+ -->
 			
 		</ul>
 
