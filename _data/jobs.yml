@@ -2,40 +2,40 @@
   duration: full-time
   imagelink: http://www.lorempixel.com/100/100
   company: Lighthouse Labs
-  location: King and Spadina
+  location: Downtown Toronto
   joblink: http://www.google.ca
 
 - title: Marketing Coordinator - SEO / SEM Experience
-  duration: full-time
-  imagelink: http://www.lorempixel.com/100/100
+  duration: part-time
+  imagelink: http://www.lorempixel.com/101/101
+  company: Amazon
+  location: Spadina
+  joblink: http://www.google.ca
+
+- title: Marketing Coordinator - SEO / SEM Experience
+  duration: internship
+  imagelink: http://www.lorempixel.com/102/102
   company: Lighthouse Labs
-  location: King and Spadina
+  location: Mississauga
   joblink: http://www.google.ca
 
 - title: Marketing Coordinator - SEO / SEM Experience
-  duration: full-time
-  imagelink: http://www.lorempixel.com/100/100
+  duration: temporary
+  imagelink: http://www.lorempixel.com/103/103
   company: Lighthouse Labs
-  location: King and Spadina
+  location: Front Street
   joblink: http://www.google.ca
 
 - title: Marketing Coordinator - SEO / SEM Experience
   duration: full-time
-  imagelink: http://www.lorempixel.com/100/100
+  imagelink: http://www.lorempixel.com/104/104
   company: Lighthouse Labs
-  location: King and Spadina
+  location: Bay Street
   joblink: http://www.google.ca
 
 - title: Marketing Coordinator - SEO / SEM Experience
-  duration: full-time
-  imagelink: http://www.lorempixel.com/100/100
-  company: Lighthouse Labs
-  location: King and Spadina
-  joblink: http://www.google.ca
-
-- title: Marketing Coordinator - SEO / SEM Experience
-  duration: full-time
-  imagelink: http://www.lorempixel.com/100/100
+  duration: freelance
+  imagelink: http://www.lorempixel.com/105/105
   company: Lighthouse Labs
   location: King and Spadina
   joblink: http://www.google.ca
