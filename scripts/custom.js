@@ -614,7 +614,7 @@
     /*  Sticky Header 
     /*----------------------------------------------------*/
     $( ".sticky-header" ).clone(true).addClass('cloned').insertAfter(".sticky-header");
-    $(".sticky-header.cloned.transparent #logo a img").attr("src", "images/logo.png");
+    $(".sticky-header.cloned.transparent #logo a img").attr("src", "images/logo2.png");
     $(".sticky-header.cloned.alternative").removeClass('alternative');
 
     var stickyHeader = document.querySelector(".sticky-header.cloned");
