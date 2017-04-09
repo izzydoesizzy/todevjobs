@@ -82,5 +82,11 @@
   location: "Downtown Toronto"
   joblink: http://www.google.ca
 
+- title: "Maggie's New Job"
+  duration: full-time
+  imagelink: https://cdn-images-1.medium.com/max/600/1*2unV_AgA8S9ccgvlmLa-pg.png
+  company: Rebecca Corp
+  location: "Downtown Vancouver"
+  joblink: http://www.google.ca
 
 
