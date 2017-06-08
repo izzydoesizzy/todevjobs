@@ -1,92 +1,41 @@
-- title: Jr. JavaScript Developer
-  duration: full-time
-  imagelink: https://cdn-images-1.medium.com/max/600/1*2unV_AgA8S9ccgvlmLa-pg.png
-  company: Rebecca Corp
-  location: "Downtown Vancouver"
-  joblink: http://www.google.ca
-
-- title: Full Stack Instructor
-  duration: full-time
-  imagelink: https://pbs.twimg.com/profile_images/378800000328970347/40e96c650dad499b060a4f24ddc68c6e_400x400.png
-  company: Lighthouse Labs
-  location: "Downtown Toronto"
-  joblink: http://www.google.ca
-
-- title: Node.js Developer
-  duration: part-time
-  imagelink: https://pbs.twimg.com/profile_images/786252488223580160/9-Lwv1sI.jpg
-  company: Amazon
-  location: "Spadina"
-  joblink: http://www.google.ca
-
-- title: Ruby On Rails Developer
-  duration: internship
-  imagelink: https://pbs.twimg.com/profile_images/839169520082178048/721vi7RC.jpg
-  company: Shopify
-  location: "Mississauga"
-  joblink: http://www.google.ca
-
 - title: Front End Developer
-  duration: temporary
-  imagelink: https://pbs.twimg.com/profile_images/750245754728439809/FtlOClI8_400x400.jpg
-  company: "500 Pixels"
-  location: Front Street
-  joblink: http://www.google.ca
-
-- title: UI/UX and Front End Developer
   duration: full-time
-  imagelink: https://pbs.twimg.com/profile_images/2889420774/5699bcc2a948d11e5918ccca858956c8_400x400.jpeg
-  company: "Lighthouse Labs"
-  location: Wave 
-  joblink: http://www.google.ca
+  imagelink: https://pbs.twimg.com/profile_images/593390090014982145/YGdtiYdI.png
+  company: Lucova
+  location: "Toronto"
+  joblink: https://www.lucova.com/careers/listings/A1000222
 
-- title: .NET Developer
-  duration: freelance
-  imagelink: https://pbs.twimg.com/profile_images/608742547272290304/vl4pXqqG.png
-  company: "TWG"
-  location: King and Spadina
-  joblink: http://www.google.ca
-
-- title: Part Time iOS Instructor
-  duration: Part-Time
-  imagelink: https://pbs.twimg.com/profile_images/378800000328970347/40e96c650dad499b060a4f24ddc68c6e_400x400.png
-  company: "Lighthouse Labs"
-  location: King and Spadina
-  joblink: http://www.google.ca
-
-- title: "Patrick's Assistant"
-  duration: Part-Time
-  imagelink: https://pbs.twimg.com/profile_images/839711043056132097/2F8DZeeB.jpg
-  company: "Lighthouse Labs"
-  location: King and Spadina
-  joblink: http://www.google.ca
-  
-- title: "Jeremy's Assistant"
-  duration: Part-Time
-  imagelink: https://pbs.twimg.com/profile_images/839711043056132097/2F8DZeeB.jpg
-  company: "Lighthouse Labs"
-  location: King and Spadina
-  joblink: http://www.google.ca
-  
-- title: "Alex's Assistant"
-  duration: Part-Time
-  imagelink: https://pbs.twimg.com/profile_images/839711043056132097/2F8DZeeB.jpg
-  company: "Lighthouse Labs"
-  location: King and Spadina
-  joblink: http://www.google.ca
-  
-- title: Zach's Wine Restocker
+- title: Full Stack Developer
   duration: full-time
-  imagelink: https://pbs.twimg.com/profile_images/378800000328970347/40e96c650dad499b060a4f24ddc68c6e_400x400.png
-  company: Lighthouse Labs
-  location: "Downtown Toronto"
-  joblink: http://www.google.ca
+  imagelink: https://pbs.twimg.com/profile_images/593390090014982145/YGdtiYdI.png
+  company: Lucova
+  location: "Toronto"
+  joblink: https://www.lucova.com/careers/listings/A1000222
 
-- title: "Maggie's New Job"
+- title: Full Stack Software Engineer
+  duration: part-time
+  imagelink: https://pbs.twimg.com/profile_images/793525058840952832/D0ADblG3.jpg
+  company: ZoomAI
+  location: "Toronto"
+  joblink: https://angel.co/zoom-ai/jobs/203971-full-stack-software-engineer
+  
+- title: iOS Mobile Software Developer
   duration: full-time
-  imagelink: https://cdn-images-1.medium.com/max/600/1*2unV_AgA8S9ccgvlmLa-pg.png
-  company: Rebecca Corp
-  location: "Downtown Vancouver"
-  joblink: http://www.google.ca
+  imagelink: https://pbs.twimg.com/profile_images/849713642866167808/jj2c4v3Q.jpg
+  company: Cineplex
+  location: "Toronto"
+  joblink: http://careers.cineplex.com/jobs/6844554-ios-mobile-software-developer
 
-
+- title: Software Tester
+  duration: full-time
+  imagelink: https://pbs.twimg.com/profile_images/666361522692554752/jV0T1FQo_400x400.jpg
+  company: Askuity
+  location: "Toronto"
+  joblink: https://www.askuity.com/jobs/software-tester/
+  
+- title: Software Tester
+  duration: internship
+  imagelink: https://pbs.twimg.com/profile_images/752911063214006272/JTPF-yZO_400x400.jpg
+  company: Trellis
+  location: "Toronto"
+  joblink: https://www.trellisgrows.com/careers/5741031244955648
